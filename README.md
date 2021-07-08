@@ -1,6 +1,6 @@
 # Basic-C-programs-3
 
-This Repository contains 135 basic programs in C programming language consisting of:
+This Repository contains basic programs in C programming language consisting of:
 
 **1) Patterns**
 
